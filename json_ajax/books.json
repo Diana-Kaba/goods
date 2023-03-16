@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "category": "Marvel Comics",
+    "price": "$1,768.00",
+    "stocked": true,
+    "name": "The Incredible Hulk #181 (1974)",
+    "author": "Len Wein",
+    "imageCover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91-mDfgf50L._AC_UF1000,1000_QL80_.jpg",
+    "count": 1
+  },
+  {
+    "id": 2,
+    "category": "Marvel Comics",
+    "price": "$7,500.50",
+    "stocked": false,
+    "name": "Iron Man #1 (1968)",
+    "author": "Archie Goodwin",
+    "imageCover": "https://cdn.marvel.com/u/prod/marvel/i/mg/e/c0/51b5f6dacc2d1/clean.jpg",
+    "count": 1
+  },
+  {
+    "id": 3,
+    "category": "Marvel Comics",
+    "price": "$3,104.50",
+    "stocked": true,
+    "name": "Journey Into Mystery #83 (1952)",
+    "author": "Stan Lee, Larry Lieber",
+    "imageCover": "https://cdn.marvel.com/u/prod/marvel/i/mg/2/80/5a83133fa0008/clean.jpg",
+    "count": 1
+  },
+  {
+    "id": 4,
+    "category": "Marvel Comics",
+    "price": "$4,998.88",
+    "stocked": true,
+    "name": "Captain America #1 (1941)",
+    "author": "Joe Simon, Jack Kirby",
+    "imageCover": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/a0/5991fa03329b7/clean.jpg",
+    "count": 1
+  },
+  {
+    "id": 5,
+    "category": "DC Comics",
+    "price": "$6,200.00",
+    "stocked": false,
+    "name": "Action Comics #1 (1938)",
+    "author": "Joe Shuster",
+    "imageCover": "https://upload.wikimedia.org/wikipedia/en/5/5a/Action_Comics_1.jpg",
+    "count": 1
+  },
+  {
+    "id": 6,
+    "category": "DC Comics",
+    "price": "$7,500.00",
+    "stocked": true,
+    "name": "Batman #1 (1940)",
+    "author": "Bill Finger, Whitney Ellsworth, Paul Gustavson",
+    "imageCover": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Batman_Comic_Book_-_NARA_-_595420.gif",
+    "count": 1
+  },
+  {
+    "id": 7,
+    "category": "DC Comics",
+    "price": "$9,280.70",
+    "stocked": false,
+    "name": "Wonder Woman #1 (1942)",
+    "author": "William Moulton Marston",
+    "imageCover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/SensationComics.jpg/200px-SensationComics.jpg",
+    "count": 1
+  }
+]
